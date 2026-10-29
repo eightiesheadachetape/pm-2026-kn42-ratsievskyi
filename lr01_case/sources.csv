@@ -1,1 +1,4 @@
 source_id,claim,source_title,publisher,url,pub_date,accessed
+SRC-01,"Системний збій через відсутність резервного копіювання","Audit Report on IT Modernization Project","Office of Auditor General","https://example.gov/report1",2021-04-15,2026-10-29
+SRC-02,"Затримка релізу на 18 місяців через пізню інтеграцію","Post-Mortem Analysis of Project Failure","Tech Insights Journal","https://example.com/article2",2022-01-10,2026-10-29
+SRC-03,"Менеджмент ігнорував попередження тестувальників","Independent Inquiry Findings","Parliamentary Committee","https://example.gov/inquiry",2023-05-20,2026-10-29
