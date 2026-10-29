@@ -1,1 +1,3 @@
 change_id,date,source,description,story_ids,points_delta,decision,rationale,affected_files
+CH-01,2026-10-24,course_event,"Додано SSO авторизацію через акаунт академії та журнал доступу до персональних даних. Для збереження строків релізу історію S-14 перенесено в REL-2",S-16;S-17;S-14,0,accepted,"Вимога спонсора є обов'язковою для введення системи в експлуатацію. Компенсовано винесенням S-14 (8pt) у REL-2",lr06_backlog/backlog.csv;lr08_poker/votes.csv;lr08_poker/estimates.csv;lr07_wbs/wbs.csv;lr07_wbs/schedule.csv
+CH-02,2026-10-10,own_decision,"Уточнення критеріїв приймання для завантаження звітів (S-06) щодо обмежень розміру файлів",S-06,0,accepted,"Необхідно для запобігання переповненню дискового простору сервера",lr06_backlog/backlog.csv;lr08_poker/estimates.csv
