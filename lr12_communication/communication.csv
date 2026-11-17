@@ -1,1 +1,7 @@
 item_id,stakeholder_id,message,channel,frequency,format,owner
+C-01,ST-01,"Прогрес по історіях першого релізу, статус ризиків та дата релізу",email,biweekly,written,PM (я)
+C-02,ST-02,"Щотижневий звіт про виконання завдань практики та готовність модулів",chat,weekly,written,BA (бізнес-аналітик)
+C-03,ST-01,"Ескалація ризику червоної зони R-02 (затримка університетського SSO доступу)",call,on_event,verbal,PM (я)
+C-04,ST-06,"Технічний статус спринту та блокери розробки",meeting,biweekly,presentation,PM (я)
+C-05,ST-10,"Внутрішній звіт команди про завершення спринту та закриті story points",report,biweekly,dashboard,QA (інженер з якості)
+C-06,ST-04,"Інформація про етапи проходження практики та дати дедлайнів звітів",email,monthly,written,PM (я)
