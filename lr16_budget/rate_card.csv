@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.25,200,620,https://jobs.dou.ua/salaries/,Керівництво проєктом
+Dev,1.25,1000,530,https://jobs.dou.ua/salaries/,Основна розробка
+QA,0.75,600,420,https://jobs.dou.ua/salaries/,Тестування якості
+DevOps,0.50,400,480,https://jobs.dou.ua/salaries/,Інфраструктура та середовища
